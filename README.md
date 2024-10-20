@@ -8,7 +8,7 @@
 
 ### list
 -ur
--name
+-try
 
 
 [gitlub](https://github.com/harshiddsinh/ASsignment_5)
