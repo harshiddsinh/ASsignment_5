@@ -8,8 +8,8 @@
 
 ### list
 
--url
--name
+ -url
+ -name
 
 
 [gitlub](https://github.com/harshiddsinh/ASsignment_5)
